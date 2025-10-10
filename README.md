@@ -722,6 +722,14 @@ Industrial Control System Cyber Security</a>
             LICSTER, the Low-cost ICS Security Testbed for Education and Research, aims to help setup a minimal, low-cost Industrial Control System (ICS) testbest for students, researchers, or anyone with an interest in industrial security. The project contains a list of affordable hardware to build the minimalistic ICS with, instructions, configurations and installation scripts to instantiate the system as well as various attacker scenarios and their implications. The paper can be found <a href="https://arxiv.org/abs/1910.00303", target="_blank">here</a>.
         </td> 
     </tr>
+    <tr>
+        <td>
+            <a href="https://icscsi.org/" target="_blank">Industrial Control System Cyber Security Institute</a>
+        </td>
+        <td>
+            The ICS Cyber Security Institute offers on-line training developed by practitioners in both ICS system design/operation and cyber security design/compliance. 
+        </td> 
+    </tr>
 </table>
 
 ## Introduction to ICS, SCADA, & PLCs
